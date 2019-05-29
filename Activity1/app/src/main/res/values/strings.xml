@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Activity1</string>
+    <string name="toggle_tv_text">Toggle button not clicked</string>
+    <string name="spinner_not_selected">Spinner item not selected</string>
+    <string name="checkbox_not_selected">Checkbox not checked</string>
+    <string name="time_tv_text">No time picked</string>
+    <string name="date_tv_text">No date picked</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="time_pick">Time Pick</string>
+    <string name="date_pick">Date Pick</string>
+    <string name="the_button_is_on">The Button is ON</string>
+    <string name="the_button_is_off">The Button is OFF</string>
+    <string name="item_selected">Item Selected: %s</string>
+    <string name="checkbox_checked">CheckBox is Checked</string>
+    <string name="checkbox_unchecked">CheckBox is Unchecked</string>
+    <string name="selected_day">%s / %s / %s</string>
+    <string name="selected_time">%s : %s</string>
+    <string-array name="example_array">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+    </string-array>
+</resources>
