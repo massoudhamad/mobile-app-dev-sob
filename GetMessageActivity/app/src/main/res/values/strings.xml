@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetMessageActivity</string>
+    <string name="message">Enter Your Message</string>
+    <string name="btnSendLabel">Send Message</string>
+</resources>
